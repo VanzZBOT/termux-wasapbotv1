@@ -32,8 +32,8 @@ you've just cloned!!
 > bash install.sh
 ```
 ```bash
-## JIKA ERROR
-Ketik Command di bawah ini
+JIKA ERROR 
+Ketik Command di bawah ini :
 
 > pkg install tesseract
 > npm i -g cwebp
