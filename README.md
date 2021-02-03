@@ -31,7 +31,8 @@ you've just cloned!!
 > cd termux-wasapbotv1
 > bash install.sh
 
-## Jika mengalami error ketik command di bawah ini
+## JIKA ERROR
+Ketik Command di bawah ini
 
 > pkg install tesseract
 > npm i -g cwebp
