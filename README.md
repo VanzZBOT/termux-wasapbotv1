@@ -23,7 +23,7 @@
 ```
 
 ```bash
->Command BOT $
+>PERFIX = 'Z'
 ```
 
 ## Install the dependencies:
@@ -33,7 +33,7 @@ you've just cloned!!
 ```bash
 > cd termux-wasapbotv1
 > bash install.sh
-> JIKA ERROR KETIK  :  
+> JIKA ERROR 
 > pkg install tesseract
 > npm i -g cwebp
 > npm i -g ytdl
