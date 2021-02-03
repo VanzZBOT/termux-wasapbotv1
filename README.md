@@ -22,9 +22,6 @@
 > git clone https://github.com/VanzZBOT/termux-wasapbotv1
 ```
 
-```bash
->PERFIX = 'Z'
-```
 
 ## Install the dependencies:
 Before running the below command, make sure you're in the project directory that
@@ -44,6 +41,9 @@ you've just cloned!!
 ### Usage
 ```bash
 > npm start
+```
+```bash
+> PERFIX BOT = 'z'
 ```
 
 ## Features
