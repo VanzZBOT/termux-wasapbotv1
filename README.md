@@ -30,7 +30,8 @@ you've just cloned!!
 ```bash
 > cd termux-wasapbotv1
 > bash install.sh
-
+```
+```bash
 ## JIKA ERROR
 Ketik Command di bawah ini
 
