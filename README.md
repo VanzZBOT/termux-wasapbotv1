@@ -91,4 +91,4 @@ Ketik Command di bawah ini :
 ## Group
 * [`WhatsApp`](Error waiting)
 ### Donate
-* [`Saweria`](https://saweria.co/donate/vansgaming01)
+* [`Saweria`](https://saweria.co/donate/vansgaming001)
