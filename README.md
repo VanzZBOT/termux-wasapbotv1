@@ -17,13 +17,15 @@
 </p>
 
 ## Clone this project
-
+```bash 
+> pkg install git
+> pkg install ffmpeg
+> pkg install npm
+> pkg install bash
+> pkg install nodejs
+```
 ```bash
 > git clone https://github.com/VanzZBOT/termux-wasapbotv1
-```
-
-```bash
->Command BOT $
 ```
 
 ## Install the dependencies:
@@ -33,7 +35,11 @@ you've just cloned!!
 ```bash
 > cd termux-wasapbotv1
 > bash install.sh
-> JIKA ERROR KETIK  :  
+```
+
+```bash
+ JIKA ERROR KETIK  :  
+
 > pkg install tesseract
 > npm i -g cwebp
 > npm i -g ytdl
@@ -46,7 +52,7 @@ you've just cloned!!
 > npm start
 ```
 
-## Features
+## Feature
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
