@@ -5,10 +5,10 @@
 <a href="#"><img title="VanzZBOT" src="https://img.shields.io/badge/VanzZBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/VanzZ"><img title="Author" src="https://img.shields.io/badge/Author-XP-TN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VanzZBOT"><img title="Author" src="https://img.shields.io/badge/Author-VanzZBOT-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/VanzZBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/VanzZ?color=blue&style=flat-square"></a>
+<a href="https://github.com/VanzZBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/VanzZBOT?color=blue&style=flat-square"></a>
 <a href="https://github.com/VanzZBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/VanzZBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/VanzZ/BOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/VanzZBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/VamzZBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/VanzZBOT?label=Watchers&color=blue&style=flat-square"></a>
