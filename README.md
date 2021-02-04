@@ -2,30 +2,28 @@
 <img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="VanzZBOT" src="https://img.shields.io/badge/VanzZBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="XPTNNBOT" src="https://img.shields.io/badge/XPTNNBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/VanzZBOT"><img title="Author" src="https://img.shields.io/badge/Author-VanzZBOT-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/XP-TN"><img title="Author" src="https://img.shields.io/badge/Author-XP-TN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/VanzZBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/VanzZBOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/VanzZBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/VanzZBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/VanzZ/BOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/VanzZBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/VanzZBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/VanzZBOT?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVamzZ%2FBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
+<a href="https://github.com/XP-TN/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
+<a href="https://github.com/XP-TN/XP-TNNBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/XP-TN/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/XP-TN/XP-TNNBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XP-TN/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXP-TN%2FXP-TNNBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
 ## Clone this project
-```bash 
-> pkg install git
-> pkg install ffmpeg
-> pkg install npm
-> pkg install bash
-> pkg install nodejs
-```
+
 ```bash
-> git clone https://github.com/VanzZBOT/termux-wasapbotv1
+> git clone https://github.com/XP-TN/XPTNNBOTV
+```
+
+```bash
+>Command BOT $
 ```
 
 ## Install the dependencies:
@@ -33,18 +31,8 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd termux-wasapbotv1
+> cd XPTNNBOT
 > bash install.sh
-```
-
-```bash
- JIKA ERROR KETIK  :  
-
-> pkg install tesseract
-> npm i -g cwebp
-> npm i -g ytdl
-> npm install
-> npm i got
 ```
 
 ### Usage
@@ -52,7 +40,7 @@ you've just cloned!!
 > npm start
 ```
 
-## Feature
+## Features
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
@@ -85,11 +73,11 @@ you've just cloned!!
 |       ✅        |   Clear All Chats                |
 
 ## Special Thanks to
-* [`Loli Protector`](github.com/Arya-was)
-* [`SanzzBotz`]
+* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 
 ## Group
-* [`WhatsApp`](https://chat.whatsapp.com/Ed7d4lFmss30NJJdLQp1Bt)
+* [`WhatsApp`](Error waiting)
 ### Donate
-* [`Saweria`](https://saweria.co/donate/vanssgaming01) 
+* [`Saweria`](https://saweria.co/donate/agung1)
