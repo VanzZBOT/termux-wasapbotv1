@@ -83,12 +83,12 @@ Ketik Command di bawah ini :
 |       ✅        |   Clear All Chats                |
 
 ## Special Thanks to
--Arya 
+-Loli Protector
 -Sabilul
 -Mrg3p5
 
 
 ## Group
-* [`WhatsApp`](Error waiting)
+* [`WhatsApp`](https://chat.whatsapp.com/Ed7d4lFmss30NJJdLQp1Bt)
 ### Donate
 * [`Saweria`](https://saweria.co/donate/vanssgaming001)
