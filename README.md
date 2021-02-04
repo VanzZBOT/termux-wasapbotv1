@@ -79,7 +79,7 @@ you've just cloned!!
 |       ✅        |   Clear All Chats                |
 
 ## Special Thanks to
-* [`Lolo Protector`](github.com/Arya-was)
+* [`Loli Protector`](github.com/Arya-was)
 -Sabilul
 -Mrg3p5
 -mhankbarbar
