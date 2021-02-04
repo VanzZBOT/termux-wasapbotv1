@@ -92,4 +92,4 @@ you've just cloned!!
 ## Group
 * [`WhatsApp`](https://chat.whatsapp.com/Ed7d4lFmss30NJJdLQp1Bt)
 ### Donate
-* [`Saweria`](https://saweria.co/donate/vanssgaming01)
+* [`Saweria`](https://saweria.co/donate/vanssgaming01) 
