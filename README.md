@@ -86,13 +86,10 @@ you've just cloned!!
 
 ## Special Thanks to
 * [`Loli Protector`](github.com/Arya-was)
--Sabilul
--Mrg3p5
--mhankbarbar
--Maslent Xptn Arifi
+* [`SanzzBotz`](githu .com/SanzzBotz)
 
 
 ## Group
 * [`WhatsApp`](https://chat.whatsapp.com/Ed7d4lFmss30NJJdLQp1Bt)
 ### Donate
-* [`Saweria`](https://saweria.co/donate/vansgaming01)
+* [`Saweria`](https://saweria.co/donate/vanssgaming01)
