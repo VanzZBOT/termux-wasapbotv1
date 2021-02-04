@@ -79,13 +79,14 @@ you've just cloned!!
 |       ✅        |   Clear All Chats                |
 
 ## Special Thanks to
--Arya 
+* [`Lolo Protector`](github.com/Arya-was)
 -Sabilul
 -Mrg3p5
 -mhankbarbar
+-Maslent Xptn Arifi
 
 
 ## Group
-* [`WhatsApp`](Error waiting)
+* [`WhatsApp`](https://chat.whatsapp.com/Ed7d4lFmss30NJJdLQp1Bt)
 ### Donate
 * [`Saweria`](https://saweria.co/donate/vansgaming01)
